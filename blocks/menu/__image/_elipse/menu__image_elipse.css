@@ -1,0 +1,12 @@
+.menu__image_elipse {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: #D67E34;
+    border: 7px solid #FFFFFF;
+    position: absolute;
+    top: 205px;
+    right: 58px;
+    word-wrap: break-word;
+    display: flex;
+}

@@ -1,0 +1,17 @@
+@import url(./__card/history__card.css);
+@import url(./__cards/history__cards.css);
+@import url(./__main/history__main.css);
+@import url(./__about/history__about.css);
+@import url(./__cells/history__cells.css);
+@import url(./__cell/history__cell.css);
+@import url(./__images/history__images.css);
+@import url(./__advertisement/history__advertisement.css);
+
+
+.history {
+    display: flex;
+    flex-direction: column;
+    margin-top: -128px;
+    z-index: 1;
+    position: relative;
+}

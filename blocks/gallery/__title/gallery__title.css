@@ -1,0 +1,11 @@
+@import url(./_orange/gallery__title_orange.css);
+
+.gallery__title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 62px;
+    margin: 0 auto;
+    margin-bottom: 59px;
+}

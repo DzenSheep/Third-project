@@ -1,0 +1,6 @@
+.cooks__cards {
+    margin: 107px auto 100px;
+    display: grid;
+    gap: 30px;
+    grid-template-columns: repeat(3,auto);
+}

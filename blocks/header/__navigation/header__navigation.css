@@ -1,0 +1,9 @@
+.header__navigation {
+    margin: 55px 165px 0 auto;
+    display: flex;
+    align-items: center;
+    max-width: 742px;
+    max-height: 64px;
+    height: 100%;
+    width: 100%;
+}

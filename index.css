@@ -1,0 +1,12 @@
+@import url(/vendor/reset.css);
+@import url(/fonts/fonts.css);
+@import url(/blocks/body/body.css);
+@import url(/blocks/header/header.css);
+@import url(/blocks/main/main.css);
+@import url(/blocks/history/history.css);
+@import url(/blocks/Dishes/Dishes.css);
+@import url(/blocks/menu/menu.css);
+@import url(/blocks/feedback/feedback.css);
+@import url(./blocks/gallery/gallery.css);
+@import url(./blocks/cooks/cooks.css);
+@import url(./blocks/footer/footer.css);

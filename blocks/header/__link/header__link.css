@@ -1,0 +1,12 @@
+.header__link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    font-family: 'OpenSans';
+}
+
+.header__link:last-of-type {
+    padding-right: 16px;
+}

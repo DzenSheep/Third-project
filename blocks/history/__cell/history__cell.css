@@ -1,0 +1,10 @@
+@import url(./_subtitle/history__cell_subtitle.css);
+@import url(./_title/history__cell_title.css);
+
+.history__cell {
+    margin-left: 55px;
+}
+
+.history__cell:first-of-type {
+    margin-left: 0;
+}

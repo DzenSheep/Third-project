@@ -1,0 +1,9 @@
+.feedback__paragraph {
+    width: 820px;
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+}

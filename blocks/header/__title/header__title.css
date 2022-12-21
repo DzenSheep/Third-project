@@ -1,0 +1,13 @@
+@import url(./_span/header__title_span.css);
+
+.header__title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;    
+    color: #D67E35;
+    width: 430px;
+    margin: 0 auto;
+    line-height: 57px;
+}

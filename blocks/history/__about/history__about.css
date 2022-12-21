@@ -1,0 +1,12 @@
+@import url(./_title/history__about_title.css);
+@import url(./subtitle/history__about_subtitle.css);
+
+.history__about {
+    max-width: 444px;
+    width: 100%;
+    text-align: center;
+    margin-top: 166px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

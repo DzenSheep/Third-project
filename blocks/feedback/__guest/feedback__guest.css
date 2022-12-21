@@ -1,0 +1,11 @@
+@import url(./_check/feedback__guest_check.css);
+@import url(./_point/feedback__guest_point.css);
+@import url(./_subtitle/feedback__guest_subtitle.css);
+@import url(./_title/feedback__guest_title.css);
+
+.feedback__guest {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

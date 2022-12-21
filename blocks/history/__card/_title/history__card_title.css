@@ -1,0 +1,9 @@
+@import url(./-color/history__card_title-color.css);
+
+.history__card_title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+}

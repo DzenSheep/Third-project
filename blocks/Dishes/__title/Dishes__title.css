@@ -1,0 +1,11 @@
+.Dishes__title {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 62px;
+    width: 294px;
+    justify-content: space-between;
+}

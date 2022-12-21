@@ -1,0 +1,9 @@
+@import url(./_text/header__button_text.css);
+@import url(./_center/header__button_center.css);
+
+.header__button {
+    width: 157px;
+    height: 47px;
+    background-color: #FF7400;
+    margin-left: auto;
+}

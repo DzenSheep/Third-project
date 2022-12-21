@@ -1,0 +1,7 @@
+@import url(./_name/Dishes__card_name.css);
+@import url(./_titr/Dishes__card_titr.css);
+
+.Dishes__card {
+    display: flex;
+    align-items: center;
+}

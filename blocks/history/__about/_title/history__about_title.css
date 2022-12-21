@@ -1,0 +1,9 @@
+@import url(./-orange/history__about_title-orange.css);
+
+.history__about_title {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 62px;
+}

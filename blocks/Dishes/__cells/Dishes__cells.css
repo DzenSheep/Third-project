@@ -1,0 +1,6 @@
+.Dishes__cells {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}

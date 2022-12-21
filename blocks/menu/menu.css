@@ -1,0 +1,16 @@
+@import url(./__background/menu__background.css);
+@import url(./__cell/menu__cell.css);
+@import url(./__image/menu__image.css);
+@import url(./__subtitle/menu__subtitle.css);
+@import url(./__title/menu__title.css);
+@import url(./_button/menu__button.css);
+
+.menu {
+    margin: 152px auto 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 1034px;
+}

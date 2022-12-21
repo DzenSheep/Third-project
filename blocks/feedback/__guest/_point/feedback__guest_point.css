@@ -1,0 +1,14 @@
+.feedback__guest_point {
+    background-color: #C4C4C4;
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+    margin-right: 2px;
+    margin-top: 26px;
+}
+
+.feedback__guest_point:last-of-type {
+    margin-right: 0;
+    background-color: white;
+    border: 1px solid #FF7400;
+}

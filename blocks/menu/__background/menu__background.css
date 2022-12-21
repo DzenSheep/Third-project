@@ -1,0 +1,7 @@
+.menu__background {
+    background-image: url(/images/menu__background.jpg);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+}

@@ -1,0 +1,15 @@
+@import url(./_image/history__card_image.css);
+@import url(./_subtitle/history__card_subtitle.css);
+@import url(./_title/history__card_title.css);
+
+.history__card {
+    width: 328px;
+    height: 349px;
+    text-align: center;
+    margin-left: 31px;
+    background-color: white;
+}
+
+.history__card:first-of-type {
+    margin-left: 0;
+}

@@ -1,0 +1,8 @@
+@import url(./__cards/cooks__cards.css);
+@import url(./__title/cooks__title.css);
+
+.cooks {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
